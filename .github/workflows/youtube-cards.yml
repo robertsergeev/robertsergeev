@@ -16,3 +16,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCk2QXetPewn55u-Ft8xXtJg
+          playlist_id: PL-AcAZ4USYF6E61A38bMF2qC0lRddDaO6
