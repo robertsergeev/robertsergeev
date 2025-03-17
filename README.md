@@ -25,6 +25,7 @@
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <br />
+  ![robertsergeev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsergeev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 #
 
